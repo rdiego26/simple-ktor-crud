@@ -1,0 +1,1 @@
+rootProject.name = "me.diegoramos.ktor-sample-crud"
